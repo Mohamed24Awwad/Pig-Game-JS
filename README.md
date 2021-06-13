@@ -3,7 +3,7 @@
 
 Sample Roll The Dice Game use all Fundimental JavaScript also the DOM Manipulation part.
 
-# Game Mecanizm / Rules
+# Game Mechanism / Rules
 
 -The Game has 2 players ,playing in rounds
 -In each turn,a player rolls a dice as many times as he wishes,Each result get added to his ROUND score.
