@@ -30,6 +30,13 @@ To deploy this project run
   git clone https://github.com/Mohamed24Awwad/Pig-Game-JS.git
 ```
 
+## Game Website Link
+
+Navigate to the below URL to open the Game on Github Pages.
+
+```bash
+  https://mohamed24awwad.github.io/Pig-Game-JS/
+```
   
 ## Feedback
 
