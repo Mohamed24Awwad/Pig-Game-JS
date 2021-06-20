@@ -39,9 +39,7 @@ To deploy this project run
 
 Navigate to the below URL to open the Game on Github Pages.
 
-```bash
  [Game Link](https://mohamed24awwad.github.io/Pig-Game-JS/)
-```
   
 ## Feedback
 
