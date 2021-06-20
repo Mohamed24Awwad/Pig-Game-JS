@@ -3,6 +3,11 @@
 
 Sample Roll The Dice Game use all Fundimental JavaScript also the DOM Manipulation part.
 
+
+# Game Flowchart
+
+[a link](https://github.com/Mohamed24Awwad/Pig-Game-JS/blob/master/pig-game-flowchart.png)
+
 # Game Mechanism / Rules
 
 -The Game has 2 players ,playing in rounds
