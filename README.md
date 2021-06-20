@@ -6,7 +6,7 @@ Sample Roll The Dice Game use all Fundimental JavaScript also the DOM Manipulati
 
 # Game Flowchart
 
-[a Diagram => ](https://github.com/Mohamed24Awwad/Pig-Game-JS/blob/master/pig-game-flowchart.png)
+[Game's Diagram => ](https://github.com/Mohamed24Awwad/Pig-Game-JS/blob/master/pig-game-flowchart.png)
 
 # Game Mechanism / Rules
 
@@ -40,7 +40,7 @@ To deploy this project run
 Navigate to the below URL to open the Game on Github Pages.
 
 ```bash
-  https://mohamed24awwad.github.io/Pig-Game-JS/
+ [Game Link](https://mohamed24awwad.github.io/Pig-Game-JS/)
 ```
   
 ## Feedback
