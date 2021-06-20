@@ -6,7 +6,7 @@ Sample Roll The Dice Game use all Fundimental JavaScript also the DOM Manipulati
 
 # Game Flowchart
 
-[a link](https://github.com/Mohamed24Awwad/Pig-Game-JS/blob/master/pig-game-flowchart.png)
+[a Diagram => ](https://github.com/Mohamed24Awwad/Pig-Game-JS/blob/master/pig-game-flowchart.png)
 
 # Game Mechanism / Rules
 
